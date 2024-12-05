@@ -3,7 +3,7 @@ Credit Card Fraud Detection using Support Vector Machine (SVM)
 Overview
 This project focuses on detecting fraudulent transactions in credit card datasets using a Support Vector Machine (SVM) algorithm. Fraud detection is crucial in ensuring the security of online transactions, and machine learning techniques like SVM can help accurately identify fraudulent behavior.
 
-Table of Contents
+Table of Contents 
 Introduction
 Dataset
 Methodology
